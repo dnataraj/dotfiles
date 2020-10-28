@@ -43,6 +43,8 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app & yarn install'  }
 
 Plug 'ekalinin/Dockerfile.vim'
 
+" Rust
+Plug 'rust-lang/rust.vim'
 
 call plug#end()
 
